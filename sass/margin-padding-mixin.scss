@@ -23,13 +23,13 @@
     @if($breakpoints) {
       @media ('min-size': $breakpoints) {
         .#{$prefix}-#{$BPTitle}-#{$i - 1} {
-          #{$property}: $size !important;
+          #{$property}: #{$size}px !important;
         }
       }
     } @else {
       $size: nth($sizes, $i);
       .#{$prefix}-#{$i - 1} {
-        #{$property}: $size !important;
+        #{$property}: #{$size}px !important;
       }
     }
   }
@@ -43,14 +43,14 @@
     @if($breakpoints) {
       @media ('min-size': $breakpoints) {
         .#{$prefix}-#{$BPTitle}-#{$i - 1} {
-          #{$property-1}: $size !important;
-          #{$property-2}: $size !important;
+          #{$property-1}: #{$size}px !important;
+          #{$property-2}: #{$size}px !important;
         }
       }
     } @else {
       .#{$prefix}-#{$i - 1} {
-        #{$property-1}: $size !important;
-        #{$property-2}: $size !important;
+        #{$property-1}: #{$size}px !important;
+        #{$property-2}: #{$size}px !important;
       }
     }
   }
