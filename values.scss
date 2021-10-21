@@ -1,0 +1,38 @@
+$breakpoints: [
+  [576, 'sm'],
+  [768, 'md'],
+  [992, 'lg'],
+  [1200, 'xl'],
+  [1400, 'xxl']
+];
+
+$sizes: [0, 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84];
+
+$margin-padding-classes: [
+  [ma, margin, null],
+  [mx, margin-right, margin-left],
+  [my, margin-top, margin-bottom],
+  [mt, margin-top, null],
+  [ml, margin-left, null],
+  [mr, margin-right, null],
+  [mb, margin-bottom, null],
+];
+
+$global-classes: [
+  [display, display, block],
+  [display, display, flex],
+  [display, display, inline-block],
+  [justify-content, justify, start],
+  [justify-content, justify, center],
+  [justify-content, justify, end],
+  [justify-content, justify, space-between],
+  [justify-content, justify, space-around],
+  [align-items, align, start],
+  [align-items, align, center],
+  [align-items, align, end],
+];
+
+.test {
+  justify-content: space-around;
+  align-items: center;
+}
