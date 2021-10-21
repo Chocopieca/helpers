@@ -1,0 +1,23 @@
+.main-black {
+  background: #161616;
+}
+
+.main-gray {
+  background: #222222;
+}
+
+.main-dark-black {
+  background: black;
+}
+
+.main-red {
+  background: #FC1531;
+}
+
+.main-red-text {
+  color: #F5223D;
+}
+
+.main-white-text {
+  color: #FFFFFF;
+}

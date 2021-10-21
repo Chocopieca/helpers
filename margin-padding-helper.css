@@ -1,0 +1,1666 @@
+/* line 1, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-0 {
+  padding: 0px !important;
+}
+
+/* line 5, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-1 {
+  padding: 4px !important;
+}
+
+/* line 9, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-2 {
+  padding: 8px !important;
+}
+
+/* line 13, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-3 {
+  padding: 12px !important;
+}
+
+/* line 17, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-4 {
+  padding: 16px !important;
+}
+
+/* line 21, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-5 {
+  padding: 20px !important;
+}
+
+/* line 25, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-6 {
+  padding: 24px !important;
+}
+
+/* line 29, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-7 {
+  padding: 28px !important;
+}
+
+/* line 33, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-8 {
+  padding: 32px !important;
+}
+
+/* line 37, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-9 {
+  padding: 36px !important;
+}
+
+/* line 41, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-10 {
+  padding: 40px !important;
+}
+
+/* line 45, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-11 {
+  padding: 44px !important;
+}
+
+/* line 49, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-12 {
+  padding: 48px !important;
+}
+
+/* line 53, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-13 {
+  padding: 52px !important;
+}
+
+/* line 57, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-14 {
+  padding: 56px !important;
+}
+
+/* line 61, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-15 {
+  padding: 60px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-16 {
+  padding: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-17 {
+  padding: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-18 {
+  padding: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-19 {
+  padding: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-20 {
+  padding: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pa-21 {
+  padding: 84px !important;
+}
+
+/* line 69, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-0 {
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+
+/* line 74, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-1 {
+  padding-right: 4px !important;
+  padding-left: 4px !important;
+}
+
+/* line 79, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-2 {
+  padding-right: 8px !important;
+  padding-left: 8px !important;
+}
+
+/* line 84, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-3 {
+  padding-right: 12px !important;
+  padding-left: 12px !important;
+}
+
+/* line 89, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-4 {
+  padding-right: 16px !important;
+  padding-left: 16px !important;
+}
+
+/* line 94, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-5 {
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+}
+
+/* line 99, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-6 {
+  padding-right: 24px !important;
+  padding-left: 24px !important;
+}
+
+/* line 104, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-7 {
+  padding-right: 28px !important;
+  padding-left: 28px !important;
+}
+
+/* line 109, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-8 {
+  padding-right: 32px !important;
+  padding-left: 32px !important;
+}
+
+/* line 114, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-9 {
+  padding-right: 36px !important;
+  padding-left: 36px !important;
+}
+
+/* line 119, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-10 {
+  padding-right: 40px !important;
+  padding-left: 40px !important;
+}
+
+/* line 124, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-11 {
+  padding-right: 44px !important;
+  padding-left: 44px !important;
+}
+
+/* line 129, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-12 {
+  padding-right: 48px !important;
+  padding-left: 48px !important;
+}
+
+/* line 134, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-13 {
+  padding-right: 52px !important;
+  padding-left: 52px !important;
+}
+
+/* line 139, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-14 {
+  padding-right: 56px !important;
+  padding-left: 56px !important;
+}
+
+/* line 144, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-15 {
+  padding-right: 60px !important;
+  padding-left: 60px !important;
+}
+
+/* line 149, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-16 {
+  padding-right: 64px !important;
+  padding-left: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-17 {
+  padding-right: 68px !important;
+  padding-left: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-18 {
+  padding-right: 72px !important;
+  padding-left: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-19 {
+  padding-right: 76px !important;
+  padding-left: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-20 {
+  padding-right: 80px !important;
+  padding-left: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.px-21 {
+  padding-right: 84px !important;
+  padding-left: 84px !important;
+}
+
+/* line 154, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-0 {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+/* line 159, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-1 {
+  padding-top: 4px !important;
+  padding-bottom: 4px !important;
+}
+
+/* line 164, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-2 {
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+}
+
+/* line 169, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-3 {
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+}
+
+/* line 174, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-4 {
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+}
+
+/* line 179, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-5 {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+}
+
+/* line 184, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-6 {
+  padding-top: 24px !important;
+  padding-bottom: 24px !important;
+}
+
+/* line 189, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-7 {
+  padding-top: 28px !important;
+  padding-bottom: 28px !important;
+}
+
+/* line 194, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-8 {
+  padding-top: 32px !important;
+  padding-bottom: 32px !important;
+}
+
+/* line 199, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-9 {
+  padding-top: 36px !important;
+  padding-bottom: 36px !important;
+}
+
+/* line 204, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-10 {
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+}
+
+/* line 209, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-11 {
+  padding-top: 44px !important;
+  padding-bottom: 44px !important;
+}
+
+/* line 214, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-12 {
+  padding-top: 48px !important;
+  padding-bottom: 48px !important;
+}
+
+/* line 219, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-13 {
+  padding-top: 52px !important;
+  padding-bottom: 52px !important;
+}
+
+/* line 224, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-14 {
+  padding-top: 56px !important;
+  padding-bottom: 56px !important;
+}
+
+/* line 229, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-15 {
+  padding-top: 60px !important;
+  padding-bottom: 60px !important;
+}
+
+/* line 234, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-16 {
+  padding-top: 64px !important;
+  padding-bottom: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-17 {
+  padding-top: 68px !important;
+  padding-bottom: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-18 {
+  padding-top: 72px !important;
+  padding-bottom: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-19 {
+  padding-top: 76px !important;
+  padding-bottom: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-20 {
+  padding-top: 80px !important;
+  padding-bottom: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.py-21 {
+  padding-top: 84px !important;
+  padding-bottom: 84px !important;
+}
+
+/* line 239, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-0 {
+  padding-top: 0px !important;
+}
+
+/* line 243, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-1 {
+  padding-top: 4px !important;
+}
+
+/* line 247, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-2 {
+  padding-top: 8px !important;
+}
+
+/* line 251, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-3 {
+  padding-top: 12px !important;
+}
+
+/* line 255, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-4 {
+  padding-top: 16px !important;
+}
+
+/* line 259, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-5 {
+  padding-top: 20px !important;
+}
+
+/* line 263, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-6 {
+  padding-top: 24px !important;
+}
+
+/* line 267, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-7 {
+  padding-top: 28px !important;
+}
+
+/* line 271, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-8 {
+  padding-top: 32px !important;
+}
+
+/* line 275, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-9 {
+  padding-top: 36px !important;
+}
+
+/* line 279, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-10 {
+  padding-top: 40px !important;
+}
+
+/* line 283, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-11 {
+  padding-top: 44px !important;
+}
+
+/* line 287, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-12 {
+  padding-top: 48px !important;
+}
+
+/* line 291, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-13 {
+  padding-top: 52px !important;
+}
+
+/* line 295, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-14 {
+  padding-top: 56px !important;
+}
+
+/* line 299, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-15 {
+  padding-top: 60px !important;
+}
+
+/* line 303, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-16 {
+  padding-top: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-17 {
+  padding-top: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-18 {
+  padding-top: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-19 {
+  padding-top: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-20 {
+  padding-top: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pt-21 {
+  padding-top: 84px !important;
+}
+
+/* line 307, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-0 {
+  padding-right: 0px !important;
+}
+
+/* line 311, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-1 {
+  padding-right: 4px !important;
+}
+
+/* line 315, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-2 {
+  padding-right: 8px !important;
+}
+
+/* line 319, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-3 {
+  padding-right: 12px !important;
+}
+
+/* line 323, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-4 {
+  padding-right: 16px !important;
+}
+
+/* line 327, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-5 {
+  padding-right: 20px !important;
+}
+
+/* line 331, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-6 {
+  padding-right: 24px !important;
+}
+
+/* line 335, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-7 {
+  padding-right: 28px !important;
+}
+
+/* line 339, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-8 {
+  padding-right: 32px !important;
+}
+
+/* line 343, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-9 {
+  padding-right: 36px !important;
+}
+
+/* line 347, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-10 {
+  padding-right: 40px !important;
+}
+
+/* line 351, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-11 {
+  padding-right: 44px !important;
+}
+
+/* line 355, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-12 {
+  padding-right: 48px !important;
+}
+
+/* line 359, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-13 {
+  padding-right: 52px !important;
+}
+
+/* line 363, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-14 {
+  padding-right: 56px !important;
+}
+
+/* line 367, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-15 {
+  padding-right: 60px !important;
+}
+
+/* line 371, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-16 {
+  padding-right: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-17 {
+  padding-right: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-18 {
+  padding-right: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-19 {
+  padding-right: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-20 {
+  padding-right: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pr-21 {
+  padding-right: 84px !important;
+}
+
+/* line 375, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-0 {
+  padding-bottom: 0px !important;
+}
+
+/* line 379, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-1 {
+  padding-bottom: 4px !important;
+}
+
+/* line 383, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-2 {
+  padding-bottom: 8px !important;
+}
+
+/* line 387, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-3 {
+  padding-bottom: 12px !important;
+}
+
+/* line 391, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-4 {
+  padding-bottom: 16px !important;
+}
+
+/* line 395, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-5 {
+  padding-bottom: 20px !important;
+}
+
+/* line 399, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-6 {
+  padding-bottom: 24px !important;
+}
+
+/* line 403, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-7 {
+  padding-bottom: 28px !important;
+}
+
+/* line 407, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-8 {
+  padding-bottom: 32px !important;
+}
+
+/* line 411, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-9 {
+  padding-bottom: 36px !important;
+}
+
+/* line 415, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-10 {
+  padding-bottom: 40px !important;
+}
+
+/* line 419, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-11 {
+  padding-bottom: 44px !important;
+}
+
+/* line 423, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-12 {
+  padding-bottom: 48px !important;
+}
+
+/* line 427, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-13 {
+  padding-bottom: 52px !important;
+}
+
+/* line 431, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-14 {
+  padding-bottom: 56px !important;
+}
+
+/* line 435, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-15 {
+  padding-bottom: 60px !important;
+}
+
+/* line 439, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-16 {
+  padding-bottom: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-17 {
+  padding-bottom: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-18 {
+  padding-bottom: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-19 {
+  padding-bottom: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-20 {
+  padding-bottom: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pb-21 {
+  padding-bottom: 84px !important;
+}
+
+/* line 443, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-0 {
+  padding-left: 0px !important;
+}
+
+/* line 447, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-1 {
+  padding-left: 4px !important;
+}
+
+/* line 451, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-2 {
+  padding-left: 8px !important;
+}
+
+/* line 455, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-3 {
+  padding-left: 12px !important;
+}
+
+/* line 459, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-4 {
+  padding-left: 16px !important;
+}
+
+/* line 463, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-5 {
+  padding-left: 20px !important;
+}
+
+/* line 467, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-6 {
+  padding-left: 24px !important;
+}
+
+/* line 471, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-7 {
+  padding-left: 28px !important;
+}
+
+/* line 475, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-8 {
+  padding-left: 32px !important;
+}
+
+/* line 479, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-9 {
+  padding-left: 36px !important;
+}
+
+/* line 483, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-10 {
+  padding-left: 40px !important;
+}
+
+/* line 487, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-11 {
+  padding-left: 44px !important;
+}
+
+/* line 491, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-12 {
+  padding-left: 48px !important;
+}
+
+/* line 495, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-13 {
+  padding-left: 52px !important;
+}
+
+/* line 499, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-14 {
+  padding-left: 56px !important;
+}
+
+/* line 503, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-15 {
+  padding-left: 60px !important;
+}
+
+/* line 507, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-16 {
+  padding-left: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-17 {
+  padding-left: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-18 {
+  padding-left: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-19 {
+  padding-left: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-20 {
+  padding-left: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.pl-21 {
+  padding-left: 84px !important;
+}
+
+/* line 511, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-0 {
+  margin: 0px !important;
+}
+
+/* line 515, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-1 {
+  margin: 4px !important;
+}
+
+/* line 519, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-2 {
+  margin: 8px !important;
+}
+
+/* line 523, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-3 {
+  margin: 12px !important;
+}
+
+/* line 527, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-4 {
+  margin: 16px !important;
+}
+
+/* line 531, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-5 {
+  margin: 20px !important;
+}
+
+/* line 535, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-6 {
+  margin: 24px !important;
+}
+
+/* line 539, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-7 {
+  margin: 28px !important;
+}
+
+/* line 543, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-8 {
+  margin: 32px !important;
+}
+
+/* line 547, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-9 {
+  margin: 36px !important;
+}
+
+/* line 551, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-10 {
+  margin: 40px !important;
+}
+
+/* line 555, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-11 {
+  margin: 44px !important;
+}
+
+/* line 559, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-12 {
+  margin: 48px !important;
+}
+
+/* line 563, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-13 {
+  margin: 52px !important;
+}
+
+/* line 567, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-14 {
+  margin: 56px !important;
+}
+
+/* line 571, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-15 {
+  margin: 60px !important;
+}
+
+/* line 575, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-16 {
+  margin: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-17 {
+  margin: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-18 {
+  margin: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-19 {
+  margin: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-20 {
+  margin: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-21 {
+  margin: 84px !important;
+}
+
+/* line 579, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ma-auto {
+  margin: auto !important;
+}
+
+/* line 583, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-0 {
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+
+/* line 588, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-1 {
+  margin-right: 4px !important;
+  margin-left: 4px !important;
+}
+
+/* line 593, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-2 {
+  margin-right: 8px !important;
+  margin-left: 8px !important;
+}
+
+/* line 598, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-3 {
+  margin-right: 12px !important;
+  margin-left: 12px !important;
+}
+
+/* line 603, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-4 {
+  margin-right: 16px !important;
+  margin-left: 16px !important;
+}
+
+/* line 608, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-5 {
+  margin-right: 20px !important;
+  margin-left: 20px !important;
+}
+
+/* line 613, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-6 {
+  margin-right: 24px !important;
+  margin-left: 24px !important;
+}
+
+/* line 618, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-7 {
+  margin-right: 28px !important;
+  margin-left: 28px !important;
+}
+
+/* line 623, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-8 {
+  margin-right: 32px !important;
+  margin-left: 32px !important;
+}
+
+/* line 628, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-9 {
+  margin-right: 36px !important;
+  margin-left: 36px !important;
+}
+
+/* line 633, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-10 {
+  margin-right: 40px !important;
+  margin-left: 40px !important;
+}
+
+/* line 638, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-11 {
+  margin-right: 44px !important;
+  margin-left: 44px !important;
+}
+
+/* line 643, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-12 {
+  margin-right: 48px !important;
+  margin-left: 48px !important;
+}
+
+/* line 648, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-13 {
+  margin-right: 52px !important;
+  margin-left: 52px !important;
+}
+
+/* line 653, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-14 {
+  margin-right: 56px !important;
+  margin-left: 56px !important;
+}
+
+/* line 658, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-15 {
+  margin-right: 60px !important;
+  margin-left: 60px !important;
+}
+
+/* line 663, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-16 {
+  margin-right: 64px !important;
+  margin-left: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-17 {
+  margin-right: 68px !important;
+  margin-left: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-18 {
+  margin-right: 72px !important;
+  margin-left: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-19 {
+  margin-right: 76px !important;
+  margin-left: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-20 {
+  margin-right: 80px !important;
+  margin-left: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-21 {
+  margin-right: 84px !important;
+  margin-left: 84px !important;
+}
+
+/* line 668, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mx-auto {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+/* line 673, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-0 {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+/* line 678, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-1 {
+  margin-top: 4px !important;
+  margin-bottom: 4px !important;
+}
+
+/* line 683, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-2 {
+  margin-top: 8px !important;
+  margin-bottom: 8px !important;
+}
+
+/* line 688, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-3 {
+  margin-top: 12px !important;
+  margin-bottom: 12px !important;
+}
+
+/* line 693, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-4 {
+  margin-top: 16px !important;
+  margin-bottom: 16px !important;
+}
+
+/* line 698, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-5 {
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+}
+
+/* line 703, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-6 {
+  margin-top: 24px !important;
+  margin-bottom: 24px !important;
+}
+
+/* line 708, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-7 {
+  margin-top: 28px !important;
+  margin-bottom: 28px !important;
+}
+
+/* line 713, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-8 {
+  margin-top: 32px !important;
+  margin-bottom: 32px !important;
+}
+
+/* line 718, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-9 {
+  margin-top: 36px !important;
+  margin-bottom: 36px !important;
+}
+
+/* line 723, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-10 {
+  margin-top: 40px !important;
+  margin-bottom: 40px !important;
+}
+
+/* line 728, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-11 {
+  margin-top: 44px !important;
+  margin-bottom: 44px !important;
+}
+
+/* line 733, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-12 {
+  margin-top: 48px !important;
+  margin-bottom: 48px !important;
+}
+
+/* line 738, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-13 {
+  margin-top: 52px !important;
+  margin-bottom: 52px !important;
+}
+
+/* line 743, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-14 {
+  margin-top: 56px !important;
+  margin-bottom: 56px !important;
+}
+
+/* line 748, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-15 {
+  margin-top: 60px !important;
+  margin-bottom: 60px !important;
+}
+
+/* line 753, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-16 {
+  margin-top: 64px !important;
+  margin-bottom: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-17 {
+  margin-top: 68px !important;
+  margin-bottom: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-18 {
+  margin-top: 72px !important;
+  margin-bottom: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-19 {
+  margin-top: 76px !important;
+  margin-bottom: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-20 {
+  margin-top: 80px !important;
+  margin-bottom: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-21 {
+  margin-top: 84px !important;
+  margin-bottom: 84px !important;
+}
+
+/* line 758, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.my-auto {
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+}
+
+/* line 763, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-0 {
+  margin-top: 0px !important;
+}
+
+/* line 767, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-1 {
+  margin-top: 4px !important;
+}
+
+/* line 771, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-2 {
+  margin-top: 8px !important;
+}
+
+/* line 775, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-3 {
+  margin-top: 12px !important;
+}
+
+/* line 779, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-4 {
+  margin-top: 16px !important;
+}
+
+/* line 783, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-5 {
+  margin-top: 20px !important;
+}
+
+/* line 787, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-6 {
+  margin-top: 24px !important;
+}
+
+/* line 791, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-7 {
+  margin-top: 28px !important;
+}
+
+/* line 795, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-8 {
+  margin-top: 32px !important;
+}
+
+/* line 799, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-9 {
+  margin-top: 36px !important;
+}
+
+/* line 803, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-10 {
+  margin-top: 40px !important;
+}
+
+/* line 807, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-11 {
+  margin-top: 44px !important;
+}
+
+/* line 811, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-12 {
+  margin-top: 48px !important;
+}
+
+/* line 815, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-13 {
+  margin-top: 52px !important;
+}
+
+/* line 819, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-14 {
+  margin-top: 56px !important;
+}
+
+/* line 823, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-15 {
+  margin-top: 60px !important;
+}
+
+/* line 827, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-16 {
+  margin-top: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-17 {
+  margin-top: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-18 {
+  margin-top: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-19 {
+  margin-top: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-20 {
+  margin-top: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-21 {
+  margin-top: 84px !important;
+}
+
+/* line 831, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mt-auto {
+  margin-top: auto !important;
+}
+
+/* line 835, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-0 {
+  margin-right: 0px !important;
+}
+
+/* line 839, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-1 {
+  margin-right: 4px !important;
+}
+
+/* line 843, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-2 {
+  margin-right: 8px !important;
+}
+
+/* line 847, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-3 {
+  margin-right: 12px !important;
+}
+
+/* line 851, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-4 {
+  margin-right: 16px !important;
+}
+
+/* line 855, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-5 {
+  margin-right: 20px !important;
+}
+
+/* line 859, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-6 {
+  margin-right: 24px !important;
+}
+
+/* line 863, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-7 {
+  margin-right: 28px !important;
+}
+
+/* line 867, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-8 {
+  margin-right: 32px !important;
+}
+
+/* line 871, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-9 {
+  margin-right: 36px !important;
+}
+
+/* line 875, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-10 {
+  margin-right: 40px !important;
+}
+
+/* line 879, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-11 {
+  margin-right: 44px !important;
+}
+
+/* line 883, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-12 {
+  margin-right: 48px !important;
+}
+
+/* line 887, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-13 {
+  margin-right: 52px !important;
+}
+
+/* line 891, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-14 {
+  margin-right: 56px !important;
+}
+
+/* line 895, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-15 {
+  margin-right: 60px !important;
+}
+
+/* line 899, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-16 {
+  margin-right: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-17 {
+  margin-right: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-18 {
+  margin-right: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-19 {
+  margin-right: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-20 {
+  margin-right: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-21 {
+  margin-right: 84px !important;
+}
+
+/* line 903, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mr-auto {
+  margin-right: auto !important;
+}
+
+/* line 907, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-0 {
+  margin-bottom: 0px !important;
+}
+
+/* line 911, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-1 {
+  margin-bottom: 4px !important;
+}
+
+/* line 915, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-2 {
+  margin-bottom: 8px !important;
+}
+
+/* line 919, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-3 {
+  margin-bottom: 12px !important;
+}
+
+/* line 923, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-4 {
+  margin-bottom: 16px !important;
+}
+
+/* line 927, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-5 {
+  margin-bottom: 20px !important;
+}
+
+/* line 931, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-6 {
+  margin-bottom: 24px !important;
+}
+
+/* line 935, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-7 {
+  margin-bottom: 28px !important;
+}
+
+/* line 939, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-8 {
+  margin-bottom: 32px !important;
+}
+
+/* line 943, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-9 {
+  margin-bottom: 36px !important;
+}
+
+/* line 947, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-10 {
+  margin-bottom: 40px !important;
+}
+
+/* line 951, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-11 {
+  margin-bottom: 44px !important;
+}
+
+/* line 955, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-12 {
+  margin-bottom: 48px !important;
+}
+
+/* line 959, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-13 {
+  margin-bottom: 52px !important;
+}
+
+/* line 963, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-14 {
+  margin-bottom: 56px !important;
+}
+
+/* line 967, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-15 {
+  margin-bottom: 60px !important;
+}
+
+/* line 971, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-16 {
+  margin-bottom: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-17 {
+  margin-bottom: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-18 {
+  margin-bottom: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-19 {
+  margin-bottom: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-20 {
+  margin-bottom: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-21 {
+  margin-bottom: 84px !important;
+}
+
+/* line 975, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.mb-auto {
+  margin-bottom: auto !important;
+}
+
+/* line 979, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-0 {
+  margin-left: 0px !important;
+}
+
+/* line 983, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-1 {
+  margin-left: 4px !important;
+}
+
+/* line 987, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-2 {
+  margin-left: 8px !important;
+}
+
+/* line 991, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-3 {
+  margin-left: 12px !important;
+}
+
+/* line 995, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-4 {
+  margin-left: 16px !important;
+}
+
+/* line 999, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-5 {
+  margin-left: 20px !important;
+}
+
+/* line 1003, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-6 {
+  margin-left: 24px !important;
+}
+
+/* line 1007, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-7 {
+  margin-left: 28px !important;
+}
+
+/* line 1011, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-8 {
+  margin-left: 32px !important;
+}
+
+/* line 1015, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-9 {
+  margin-left: 36px !important;
+}
+
+/* line 1019, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-10 {
+  margin-left: 40px !important;
+}
+
+/* line 1023, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-11 {
+  margin-left: 44px !important;
+}
+
+/* line 1027, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-12 {
+  margin-left: 48px !important;
+}
+
+/* line 1031, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-13 {
+  margin-left: 52px !important;
+}
+
+/* line 1035, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-14 {
+  margin-left: 56px !important;
+}
+
+/* line 1039, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-15 {
+  margin-left: 60px !important;
+}
+
+/* line 1043, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-16 {
+  margin-left: 64px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-17 {
+  margin-left: 68px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-18 {
+  margin-left: 72px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-19 {
+  margin-left: 76px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-20 {
+  margin-left: 80px !important;
+}
+
+/* line 65, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-21 {
+  margin-left: 84px !important;
+}
+
+/* line 1047, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/margin-padding-helper.scss */
+.ml-auto {
+  margin-left: auto !important;
+}
+
+/*# sourceMappingURL=margin-padding-helper.css.map */

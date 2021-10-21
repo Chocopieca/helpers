@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'TTSquaresCondensed';
+  src: url("../../assets/fonts/TTSquaresCondensed/TTSquaresCondensed-Regular.eot");
+  src: local("TTSquaresCondensedRegular"), local("TTSquaresCondensed-Regular"), url("../../assets/fonts/TTSquaresCondensed/TTSquaresCondensed-Regular.eot") format("embedded-opentype"), url("../../assets/fonts/TTSquaresCondensed/TTSquaresCondensed-Regular.woff2") format("woff2"), url("../../assets/fonts/TTSquaresCondensed/TTSquaresCondensed-Regular.woff") format("woff"), url("../../assets/fonts/TTSquaresCondensed/TTSquaresCondensed-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTSquaresCondensed';
+  src: url("../../assets/fonts/TTSquaresCondensed/TTSquaresCondensed-Bold.eot");
+  src: local("TTSquaresCondensedBold"), local("TTSquaresCondensed-Bold"), url("../../assets/fonts/TTSquaresCondensed/TTSquaresCondensed-Bold.eot") format("embedded-opentype"), url("../../assets/fonts/TTSquaresCondensed/TTSquaresCondensed-Bold.woff2") format("woff2"), url("../../assets/fonts/TTSquaresCondensed/TTSquaresCondensed-Bold.woff") format("woff"), url("../../assets/fonts/TTSquaresCondensed/TTSquaresCondensed-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
