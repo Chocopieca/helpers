@@ -1,0 +1,79 @@
+$sizes: [0, 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84];
+$breakpoints: [
+  [576, 'sm'],
+  [768, 'md'],
+  [992, 'lg'],
+  [1200, 'xl'],
+  [1400, 'xxl']
+];
+$classes: [
+  [ma, margin, null],
+  [mx, margin-right, margin-left],
+  [my, margin-top, margin-bottom],
+  [mt, margin-top, null],
+  [ml, margin-left, null],
+  [mr, margin-right, null],
+  [mb, margin-bottom, null],
+];
+
+@mixin generate($sizes, $breakpoints, $classes) {
+  @for $i from 1 through length($classes) {
+    $class: nth($classes, $i);
+
+    @if(nth($class, 3) == null) {
+      @include firstCase(nth($class, 1), nth($class, 2), $sizes);
+    } @else {
+      @include secondCase(nth($class, 1), nth($class, 2), nth($class, 3), $sizes);
+    }
+
+    @each $breakpoint in $breakpoints {
+      @if(nth($class, 3) == null) {
+        @include firstCase(nth($class, 1), nth($class, 2), $sizes, nth($breakpoint, 1), nth($breakpoint, 2));
+      } @else {
+        @include secondCase(nth($class, 1), nth($class, 2), nth($class, 3), $sizes, nth($breakpoint, 1), nth($breakpoint, 2));
+      }
+    }
+  }
+}
+
+@mixin firstCase($prefix, $property, $sizes, $breakpoints: null, $BPTitle: null) {
+  @for $i from 1 through length($sizes) {
+    $size: nth($sizes, $i);
+
+    @if($breakpoints) {
+      @media (min-size: $breakpoints) {
+        .#{$prefix}-#{$BPTitle}-#{$i - 1} {
+          #{$property}: $size !important;
+        }
+      }
+    } @else {
+      $size: nth($sizes, $i);
+      .#{$prefix}-#{$i - 1} {
+        #{$property}: $size !important;
+      }
+    }
+  }
+}
+
+
+@mixin secondCase($prefix, $property-1, $property-2, $sizes, $breakpoints: null, $BPTitle: null) {
+  @for $i from 1 through length($sizes) {
+    $size: nth($sizes, $i);
+
+    @if($breakpoints) {
+      @media (min-size: $breakpoints) {
+        .#{$prefix}-#{$BPTitle}-#{$i - 1} {
+          #{$property-1}: $size !important;
+          #{$property-2}: $size !important;
+        }
+      }
+    } @else {
+      .#{$prefix}-#{$i - 1} {
+        #{$property-1}: $size !important;
+        #{$property-2}: $size !important;
+      }
+    }
+  }
+}
+
+@include generate($sizes, $breakpoints, $classes);
