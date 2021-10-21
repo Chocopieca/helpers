@@ -1,0 +1,28 @@
+@import "../values";
+
+@mixin generator($prop, $propTitle, $value, $breakpoint: null, $BPTitle: null) {
+  @if($breakpoint) {
+    @media ('min-size': $breakpoint) {
+      .#{$propTitle}-#{$BPTitle}-#{$value} {
+        #{$prop}: $value !important;
+      }
+    }
+  } @else {
+    .#{$propTitle}-#{$value} {
+      #{$prop}: $value !important;
+    }
+  }
+}
+
+@mixin start($breakpoints, $class) {
+  @debug nth($class, 1), nth($class, 2), nth($class, 3);
+  @include generator(nth($class, 1), nth($class, 2), nth($class, 3));
+
+  @each $breakpoint in $breakpoints {
+    @include generator(nth($class, 1), nth($class, 2), nth($class, 3), nth($breakpoint, 1), nth($breakpoint, 2));
+  }
+}
+
+@each $class in $global-classes {
+  @include start($breakpoints, $class)
+}
