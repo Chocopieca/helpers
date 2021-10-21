@@ -19,13 +19,13 @@ $margin-padding-classes: [
   [ml, margin-left, null],
   [mr, margin-right, null],
   [mb, margin-bottom, null],
-  [pa, margin, null],
-  [px, margin-right, margin-left],
-  [py, margin-top, margin-bottom],
-  [pt, margin-top, null],
-  [pl, margin-left, null],
-  [pr, margin-right, null],
-  [pb, margin-bottom, null],
+  [pa, padding, null],
+  [px, padding-right, padding-left],
+  [py, padding-top, padding-bottom],
+  [pt, padding-top, null],
+  [pl, padding-left, null],
+  [pr, padding-right, null],
+  [pb, padding-bottom, null],
 ];
 
 //name of property, title for class, value and title of property
