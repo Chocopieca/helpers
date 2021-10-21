@@ -52,54 +52,6 @@
   }
 }
 
-.d-flex {
-  display: flex;
-}
-
-.d-block {
-  display: block;
-}
-
-.justify-center {
-  justify-content: center;
-}
-
-.justify-start {
-  justify-content: start;
-}
-
-.justify-end {
-  justify-content: end;
-}
-
-.justify-space-between {
-  justify-content: space-between;
-}
-
-.justify-space-around {
-  justify-content: space-around;
-}
-
-.align-center {
-  align-items: center;
-}
-
-.align-start {
-  align-items: start;
-}
-
-.align-end {
-  align-items: end;
-}
-
-.flex-column {
-  flex-direction: column;
-}
-
-.flex-row {
-  flex-direction: row;
-}
-
 .border {
   border-width: 1px;
   border-style: solid;
