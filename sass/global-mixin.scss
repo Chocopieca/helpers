@@ -2,7 +2,7 @@
 
 @mixin generator($prop, $propTitle, $value, $breakpoint: null, $BPTitle: null) {
   @if($breakpoint) {
-    @media ('min-size': $breakpoint) {
+    @media ('min-width': #{$breakpoint}px) {
       .#{$propTitle}-#{$BPTitle}-#{$value} {
         #{$prop}: $value !important;
       }

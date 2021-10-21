@@ -21,7 +21,7 @@
     $size: nth($sizes, $i);
 
     @if($breakpoints) {
-      @media ('min-size': $breakpoints) {
+      @media ('min-width': #{$breakpoints}px) {
         .#{$prefix}-#{$BPTitle}-#{$i - 1} {
           #{$property}: #{$size}px !important;
         }
@@ -41,7 +41,7 @@
     $size: nth($sizes, $i);
 
     @if($breakpoints) {
-      @media ('min-size': $breakpoints) {
+      @media ('min-width': #{$breakpoints}px) {
         .#{$prefix}-#{$BPTitle}-#{$i - 1} {
           #{$property-1}: #{$size}px !important;
           #{$property-2}: #{$size}px !important;
