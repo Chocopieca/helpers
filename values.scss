@@ -6,8 +6,11 @@ $breakpoints: [
   [1400, 'xxl']
 ];
 
+//sizes for padding and margin steps
 $sizes: [0, 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84];
 
+//title of class, name of property, name of second property
+// for example [ma, margin, null] => ma-1: { margin: 4px };
 $margin-padding-classes: [
   [ma, margin, null],
   [mx, margin-right, margin-left],
@@ -16,12 +19,21 @@ $margin-padding-classes: [
   [ml, margin-left, null],
   [mr, margin-right, null],
   [mb, margin-bottom, null],
+  [pa, margin, null],
+  [px, margin-right, margin-left],
+  [py, margin-top, margin-bottom],
+  [pt, margin-top, null],
+  [pl, margin-left, null],
+  [pr, margin-right, null],
+  [pb, margin-bottom, null],
 ];
 
+//name of property, title for class, value and title of property
+// for example [display, d, block] => d-block: { display: block };
 $global-classes: [
-  [display, display, block],
-  [display, display, flex],
-  [display, display, inline-block],
+  [display, d, block],
+  [display, d, flex],
+  [display, d, inline-block],
   [justify-content, justify, start],
   [justify-content, justify, center],
   [justify-content, justify, end],
@@ -30,9 +42,16 @@ $global-classes: [
   [align-items, align, start],
   [align-items, align, center],
   [align-items, align, end],
+  [flex-direction, flex, column],
+  [flex-direction, flex, row],
+  [text-align, text-align, center],
+  [text-align, text-align, start],
+  [text-align, text-align, end],
 ];
 
-//.test {
-//  justify-content: space-around;
-//  align-items: center;
-//}
+.test {
+  text-align: start;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
