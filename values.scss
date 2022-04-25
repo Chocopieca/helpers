@@ -49,9 +49,19 @@ $global-classes: [
   [text-align, text-align, end],
 ];
 
-.test {
-  text-align: start;
-  flex-direction: column;
-  justify-content: space-around;
-  align-items: center;
-}
+$cols: 12;
+
+$container-width: [
+  //540px,
+  960px,
+  //1140px,
+  //1320px,
+  //1440px,
+];
+
+//.test {
+//  text-align: start;
+//  flex-direction: column;
+//  justify-content: space-around;
+//  align-items: center;
+//}
