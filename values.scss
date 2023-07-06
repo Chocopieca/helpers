@@ -1,13 +1,13 @@
 $breakpoints: [
-  //[576, 'sm'],
-  [768, 'md'],
-  //[992, 'lg'],
-  //[1200, 'xl'],
-  //[1400, 'xxl']
+  //[576px, 'sm'],
+  [600px, 'md'],
+  [960px, 'lg'],
+  [1280px, 'xl'],
+  //[1904px, 'xxl']
 ];
 
 //sizes for padding and margin steps
-$sizes: [0, 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84];
+$sizes: [4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 84, 88];
 
 //title of class, name of property, name of second property
 // for example [ma, margin, null] => ma-1: { margin: 4px };
@@ -34,6 +34,7 @@ $global-classes: [
   [display, d, block],
   [display, d, flex],
   [display, d, inline-block],
+  [display, d, none],
   [justify-content, justify, start],
   [justify-content, justify, center],
   [justify-content, justify, end],
@@ -42,26 +43,31 @@ $global-classes: [
   [align-items, align, start],
   [align-items, align, center],
   [align-items, align, end],
+  [align-items, align, baseline],
   [flex-direction, flex, column],
   [flex-direction, flex, row],
+  [flex-wrap, flex, wrap],
+  [word-wrap, word, break-word],
   [text-align, text-align, center],
-  [text-align, text-align, start],
-  [text-align, text-align, end],
+  [text-align, text-align, left],
+  [text-align, text-align, right],
+  [text-transform, text, uppercase],
+  [text-transform, text, lowercase],
+  [text-decoration, text, underline],
+  [position, position, absolute],
+  [position, position, fixed],
+  [position, position, relative],
+  [overflow, overflow, hidden],
 ];
 
 $cols: 12;
 
 $container-width: [
-  //540px,
-  960px,
-  //1140px,
-  //1320px,
-  //1440px,
+  //[576, 'sm', 540px],
+  //[600px, 'md', 960px],
+  [960px, 'lg', 1000px],
+  [1280px, 'xl', 1200px],
+  //[1904px, 'xxl', 1440px]
 ];
 
-//.test {
-//  text-align: start;
-//  flex-direction: column;
-//  justify-content: space-around;
-//  align-items: center;
-//}
+$default-container-width: 1200px;

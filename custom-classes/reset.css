@@ -1,125 +1,34 @@
-/*
-html5doctor.com Reset Stylesheet
-v1.6.1
-Last Updated: 2010-09-17
-Author: Richard Clark - http://richclarkdesign.com
-Twitter: @rich_clark
-*/
-/* line 9, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-html, body, div, span, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-abbr, address, cite, code,
-del, dfn, em, img, ins, kbd, q, samp,
-small, strong, sub, sup, var,
-b, i,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section, summary,
-time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-size: 100%;
-  vertical-align: baseline;
-  background: transparent;
-}
-
-/* line 30, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-body {
-  line-height: 1;
-}
-
-/* line 34, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-  display: block;
-}
-
-/* line 39, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-nav ul {
-  list-style: none;
-}
-
-/* line 43, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-blockquote, q {
-  quotes: none;
-}
-
-/* line 47, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-blockquote:before, blockquote:after,
-q:before, q:after {
-  content: '';
-  content: none;
-}
-
-/* line 53, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-a {
-  margin: 0;
-  padding: 0;
-  font-size: 100%;
-  vertical-align: baseline;
-  background: transparent;
-}
-
-/* change colours to suit your needs */
-/* line 62, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-ins {
-  background-color: #ff9;
-  color: #000;
-  text-decoration: none;
-}
-
-/* change colours to suit your needs */
-/* line 69, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-mark {
-  background-color: #ff9;
-  color: #000;
-  font-style: italic;
-  font-weight: bold;
-}
-
-/* line 76, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-del {
-  text-decoration: line-through;
-}
-
-/* line 80, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-abbr[title], dfn[title] {
-  border-bottom: 1px dotted;
-  cursor: help;
-}
-
-/* line 85, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-/* change border colour to suit your needs */
-/* line 91, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-hr {
-  display: block;
-  height: 1px;
-  border: 0;
-  border-top: 1px solid #cccccc;
-  margin: 1em 0;
-  padding: 0;
-}
-
-/* line 100, ../../../../../../OpenServer/domains/hardcore/wp-content/themes/Hardcore/styles/scss/modules/reset.scss */
-input, select {
-  vertical-align: middle;
-}
-
-/*# sourceMappingURL=reset.css.map */
-
-*, ::after, ::before {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
 }
-
-li {
-  list-style-type: none;
+a,
+a:hover,
+a:focus,
+a:visited,
+a:active {
+  border: none;
+  outline: none;
+  text-decoration: none;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+button,
+button:focus {
+  outline: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
 }

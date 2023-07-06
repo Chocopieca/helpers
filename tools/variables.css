@@ -1,0 +1,27 @@
+:root {
+  --color-background: #fff;
+  --color-background-input: #f6fdfe;
+  --color-background-grey-1: #fafafa;
+  --color-background-grey-2: #f2f2f2;
+  --color-background-grey-3: #cecece;
+  --color-background-dark: #2f333d;
+  --color-text-1: #4e4e4e;
+  --color-text-2: #656565;
+  --color-text-3: #363636;
+  --color-text-light-blue: #6dbec5;
+  --color-text-dark-blue: #242730;
+  --color-border-grey: #b4b4b4;
+  --color-link-blue: #3b889f;
+  --color-button-blue: #74d9e2;
+  --color-button-blue-hover: #b2eef3;
+  --color-button-outline-blue-hover: #e7f7f9;
+  --color-text-error: #ff0000;
+  --color-border-error: #ff0000;
+  --color-text-red: #fc411a;
+  --color-background-error: #faeef2;
+  --color-orange: #f08d00;
+  --color-carrot-orange: #ea600a;
+  --size-tablet: 768;
+  --font-poppins: "Poppins", sans-serif;
+  --font-source-sans: "Source Sans Pro", sans-serif;
+}

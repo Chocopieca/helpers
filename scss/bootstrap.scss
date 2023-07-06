@@ -1,59 +1,69 @@
 @import "../values";
 
-@mixin generator-cols($cols, $breakpoint, $BPTitle) {
+@mixin generator-cols($cols, $breakpoints) {
+
+  .col {
+    flex: 1 0 0;
+    width: auto;
+  }
 
   @for $i from 1 through $cols {
     .col-#{$i} {
       flex: 0 0 auto;
-      width: #{($i / 12) * 100}#{'%'};
-    }
-  }
-  @for $i from 1 through $cols {
-    @media ('min-width': #{$breakpoint}px) {
-      .col-#{$BPTitle}-#{$i} {
-        flex: 0 0 auto;
-        width: #{($i / 12) * 100}#{'%'};
-      }
+      width: #{calc(#{$i} / 12 * 100%)};
     }
   }
 
-  @media ('min-width': #{$breakpoint}px) {
-    .col-#{$BPTitle} {
-      flex: 1 0 0;
-    }
-  }
-}
-
-@mixin generator-container($container-width, $breakpoint: null, $BPTitle: null) {
-
-  @if($breakpoint == null) {
-    .container {
-      width: #{$container-width};
-    }
-  } @else {
-    @media ('min-width': #{$breakpoint}px) {
-      .container-#{$BPTitle} {
-        width: #{$container-width};
-      }
-    }
-  }
-}
-
-@mixin start($breakpoints, $container-width, $cols) {
   @each $breakpoint in $breakpoints {
-    @include generator-cols($cols, nth($breakpoint, 1), nth($breakpoint, 2));
-    @each $width in $container-width {
-      @include generator-container($width, nth($breakpoint, 1), nth($breakpoint, 2));
+    @media ('min-width': #{nth($breakpoint, 1)}) {
+      body .col-#{nth($breakpoint, 2)} {
+        flex: 1 0 0;
+        width: auto;
+      }
     }
+
+    @for $i from 1 through $cols {
+      @include generate-media-cols($i, nth($breakpoint, 1), nth($breakpoint, 2));
+    }
+  }
+}
+
+@mixin generate-media-cols($index, $breakpoint, $BPTitle) {
+  @media ('min-width': #{$breakpoint}) {
+    body .col-#{$BPTitle}-#{$index} {
+      flex: 0 0 auto;
+      width: #{calc(#{$index} / 12 * 100%)};
+    }
+  }
+}
+
+@mixin generator-container($container-width, $default-container-width) {
+
+  .container-fluid {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .container {
+    max-width: #{$default-container-width};
+    padding: 0 10px;
+    margin: 0 auto;
   }
 
   @each $width in $container-width {
-    @include generator-container($width);
+    @media ('min-width': #{nth($width, 1)}) {
+      .container-#{nth($width, 2)} {
+        max-width: #{nth($width, 3)};
+        padding: 0 20px;
+        margin: 0 auto;
+      }
+    }
   }
 }
 
-.col {
-  flex: 1 0 0%;
+@mixin start($breakpoints, $container-width, $cols, $default-container-width) {
+  @include generator-cols($cols, $breakpoints);
+  @include generator-container($container-width, $default-container-width);
 }
 
 .row {
@@ -61,13 +71,4 @@
   flex-wrap: wrap;
 }
 
-.container-fluid {
-  width: 100%;
-  margin: 0 auto;
-}
-
-@include start($breakpoints, $container-width, $cols);
-
-//.test {
-//  content: #{$breakpoint}px;
-//}
+@include start($breakpoints, $container-width, $cols, $default-container-width);

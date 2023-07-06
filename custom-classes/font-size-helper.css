@@ -1,10 +1,45 @@
 
 
+.size4-weight400 {
+    font-size: 4px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 7px;
+}
+
+.size9-weight400 {
+    font-size: 9px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 12px;
+}
+
+.size10-weight400 {
+    font-size: 10px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 12px;
+}
+
+.size11-weight400 {
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 12px;
+}
+
+.size12-weight400 {
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 12px;
+}
+
 .size14-weight400 {
     font-size: 14px;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 12px;
+    line-height: 16px;
 }
 
 .size15-weight400 {
@@ -21,9 +56,89 @@
     line-height: 20px;
 }
 
+.size18-weight400 {
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 25.2px;
+}
+
+.size20-weight400 {
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+}
+
+.size24-weight400 {
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 29.23px;
+}
+
 .size32-weight400 {
     font-size: 32px;
     font-weight: 400;
+    letter-spacing: 0;
+    line-height: 29.23px;
+}
+
+.size48-weight400 {
+    font-size: 48px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+
+.size56-weight400 {
+    font-size: 56px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+
+.size64-weight400 {
+    font-size: 64px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+
+.size16-weight500 {
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+}
+.size28-weight500 {
+    font-size: 28px;
+    font-weight: 500;
+    letter-spacing: 0;
+}
+.size16-weight600 {
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 1;
+}
+.size20-weight600 {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+}
+.size8-weight700 {
+    font-size: 8px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 10px;
+}
+
+.size11-weight700 {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0;
+}
+
+.size12-weight700 {
+    font-size: 12px;
+    font-weight: 700;
     letter-spacing: 0;
 }
 
@@ -45,10 +160,39 @@
     letter-spacing: 0;
 }
 
+@media (min-width: 768px) {
+    .size18-md-weight700 {
+        font-size: 18px;
+        font-weight: 700;
+        letter-spacing: 0;
+    }
+}
+
+.size20-weight700 {
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0;
+}
+
+.size22-weight700 {
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
 .size24-weight700 {
     font-size: 24px;
     font-weight: 700;
     letter-spacing: 0;
+    line-height: 30px;
+}
+
+.size26-weight700 {
+    font-size: 26px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 30px;
 }
 
 .size32-weight700 {
@@ -56,4 +200,59 @@
     font-weight: 700;
     letter-spacing: 0;
     line-height: 35px;
+}
+
+.size34-weight700 {
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 35px;
+}
+
+.size36-weight700 {
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 46.8px;
+}
+
+.size38-weight700 {
+    font-size: 38px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 46.8px;
+}
+
+.size40-weight700 {
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 46.8px;
+}
+
+.size48-weight700 {
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 50px;
+}
+
+.size58-weight700 {
+    font-size: 58px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 62.4px;
+}
+
+.size68-weight700 {
+    font-size: 68px;
+    font-weight: 700;
+    letter-spacing: 0;
+}
+
+.size72-weight700 {
+    font-size: 72px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 82.8px;
 }
